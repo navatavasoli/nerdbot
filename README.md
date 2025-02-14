@@ -13,7 +13,7 @@ $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/
 
 Then:
 ```
-$ $ brew install python
+$ brew install python
 ```
 
 Homebrew will automatically install **pip** which is going to point to Python 3 automatically. 
