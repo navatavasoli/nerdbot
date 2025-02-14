@@ -20,5 +20,5 @@ Homebrew will automatically install **pip** which is going to point to Python 3 
 
 ## Current updates
 
-###Version 1.1.1
+### Version 1.1.1
 At this point in development I've only implemented basic API interactions. I am planning to use the AWS cloud and a basic GUI to enhance the user experience further.
